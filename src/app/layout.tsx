@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="flex h-screen flex-col justify-between bg-neutral-900">
+      <body className="flex h-screen flex-col justify-between bg-neutral-950">
         <div className="">
           <Banner></Banner>
           <div className="mx-4">{children}</div>
