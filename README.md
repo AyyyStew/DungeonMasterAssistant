@@ -10,6 +10,8 @@ This is a personal project I created after I kept forgetting initiatve turn orde
 
 This project was created to run on computers with limited resources. The old hardware I run my DND games on would overheat using other trackers so this was built as a less resource intensive version of those.
 
+This project was created mainly with the use of LLMs like ChatGPT 4 as an expirment to see how far I could peronsonally take AI generated code. The code base is a bit of a hot mess, but the website works and was functional for our dnd group. A lot of refactoring and seperation of concerns is needed. This was about as complex as I could I could push ChatGPT before it started introducing more bugs than features, overall though I learned a ton about Next.js, React, and prompt engineering.
+
 ## Improvement Ideas
 
 There are several more features I want to implment when the time and need arises:
