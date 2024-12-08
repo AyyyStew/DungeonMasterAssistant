@@ -16,9 +16,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="bg-neutral-900">
-        <Banner></Banner>
-        <div className="mx-3">{children}</div>
+      <body className="flex h-screen flex-col justify-between bg-neutral-900">
+        <div className="">
+          <Banner></Banner>
+          <div className="mx-4">{children}</div>
+        </div>
+        <footer className="mx-4 mb-4 text-center text-white">
+          Created by
+          <a className="underline" href="https://github.com/AyyyStew">
+            AyyyStew
+          </a>
+        </footer>
       </body>
     </html>
   );
