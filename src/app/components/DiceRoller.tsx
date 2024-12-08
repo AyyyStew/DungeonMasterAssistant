@@ -197,9 +197,11 @@ const DiceRoller: React.FC = () => {
         ))}
       </div>
       <div className="max-w-full overflow-x-auto">
-        <p className="text- mb-2 text-white">
-          Click the button to toggle calculation details
-        </p>
+        {results.length > 0 && (
+          <p className="text- mb-2 text-white">
+            Click the Result Card to see individual dice rolls.
+          </p>
+        )}
 
         <div className="flex flex-row-reverse justify-end gap-3 pb-4 text-white shadow">
           {results.map((result, index) => (
