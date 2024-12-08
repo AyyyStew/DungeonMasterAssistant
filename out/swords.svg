@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 30"
+   version="1.1"
+   x="0px"
+   y="0px"
+   id="svg14"
+   sodipodi:docname="game_019-challenge-swords-match-attack-weapon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <rect
+       x="-2.1187365"
+       y="33.383019"
+       width="93.586142"
+       height="15.037862"
+       id="rect15" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic"
+         id="feColorMatrix1" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2" />
+      <feColorMatrix
+         id="feColorMatrix3"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4" />
+      <feColorMatrix
+         id="feColorMatrix5"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix6"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix7" />
+      <feColorMatrix
+         id="feColorMatrix8"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix9"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix13" />
+      <feColorMatrix
+         id="feColorMatrix14"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="13.683334"
+     inkscape:cx="36.540803"
+     inkscape:cy="10.194884"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <title
+     id="title1">game_019-challenge-swords-match-attack-weapon</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <g
+     transform="translate(-429,-93)"
+     fill="#000000"
+     id="g12"
+     style="fill-rule:evenodd;stroke:none;stroke-width:0.1;filter:url(#filter1);stroke-dasharray:none">
+    <g
+       transform="translate(427,91)"
+       id="g11"
+       style="stroke-width:0.1;stroke-dasharray:none">
+      <g
+         transform="rotate(45,9,24.863961)"
+         id="g5"
+         style="stroke-width:0.1;stroke-dasharray:none">
+        <path
+           d="M 4.9160251,0.7773501 C 5.0692014,0.54758575 5.0071144,0.23715108 4.7773501,0.08397485 4.5475857,-0.06920138 4.2371511,-0.00711444 4.0839748,0.2226499 l -1.9999999,3 c -0.1531763,0.2297644 -0.091089,0.540199 0.138675,0.6933752 0.2297644,0.1531763 0.540199,0.091089 0.6933752,-0.138675 z M 6,11.205582 c 0,0.276142 0.2238576,0.5 0.5,0.5 0.2761424,0 0.5,-0.223858 0.5,-0.5 V 3.5 C 7,3.2238576 6.7761424,3 6.5,3 6.2238576,3 6,3.2238576 6,3.5 Z"
+           id="path1"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <path
+           d="m 3,15.288019 c 0,-0.276143 -0.2238576,-0.5 -0.5,-0.5 -0.2761424,0 -0.5,0.223857 -0.5,0.5 V 18.5 C 2,18.776142 2.2238576,19 2.5,19 2.7761424,19 3,18.776142 3,18.5 Z M 3,3.5 C 3,3.2238576 2.7761424,3 2.5,3 2.2238576,3 2,3.2238576 2,3.5 v 7.56782 c 0,0.276143 0.2238576,0.5 0.5,0.5 0.2761424,0 0.5,-0.223857 0.5,-0.5 z M 6.0839748,3.7773501 C 6.2371511,4.0071144 6.5475857,4.0692014 6.7773501,3.9160251 7.0071144,3.7628489 7.0692014,3.4524143 6.9160251,3.2226499 l -2,-3 C 4.7628489,-0.00711444 4.4524143,-0.06920138 4.2226499,0.08397485 3.9928856,0.23715108 3.9307986,0.54758575 4.0839748,0.7773501 Z M 6,18.5 C 6,18.776142 6.2238576,19 6.5,19 6.7761424,19 7,18.776142 7,18.5 v -3.134987 c 0,-0.276142 -0.2238576,-0.5 -0.5,-0.5 -0.2761424,0 -0.5,0.223858 -0.5,0.5 z"
+           id="path2"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <path
+           d="M 1.4970301,19 H 7.5029699 C 7.7787666,19 8,19.221302 8,19.5 8,19.773667 7.7732997,20 7.5029699,20 H 1.4970301 C 1.2212334,20 1,19.778698 1,19.5 1,19.226333 1.2267002,19 1.4970301,19 Z m 0,2 H 7.5029699 C 8.3252216,21 9,20.326316 9,19.5 9,18.669087 8.331121,18 7.5029699,18 H 1.4970301 C 0.67477844,18 0,18.673684 0,19.5 0,20.330913 0.66887898,21 1.4970301,21 Z"
+           id="path3"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <polygon
+           points="4,20.5 3,20.5 3,23.5 4,23.5 "
+           id="polygon3"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <polygon
+           points="5,23.5 6,23.5 6,20.5 5,20.5 "
+           id="polygon4"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <path
+           d="M 7,25.5 C 7,24.119288 5.8807119,23 4.5,23 3.1192881,23 2,24.119288 2,25.5 2,26.880712 3.1192881,28 4.5,28 5.8807119,28 7,26.880712 7,25.5 Z m -4,0 C 3,24.671573 3.6715729,24 4.5,24 5.3284271,24 6,24.671573 6,25.5 6,26.328427 5.3284271,27 4.5,27 3.6715729,27 3,26.328427 3,25.5 Z"
+           id="path4"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+      </g>
+      <g
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,7.7824856,0.91852455)"
+         id="g10"
+         style="stroke-width:0.1;stroke-dasharray:none">
+        <path
+           d="M 4.9160251,0.7773501 C 5.0692014,0.54758575 5.0071144,0.23715108 4.7773501,0.08397485 4.5475857,-0.06920138 4.2371511,-0.00711444 4.0839748,0.2226499 l -1.9999999,3 c -0.1531763,0.2297644 -0.091089,0.540199 0.138675,0.6933752 0.2297644,0.1531763 0.540199,0.091089 0.6933752,-0.138675 z M 6,18.5 C 6,18.776142 6.2238576,19 6.5,19 6.7761424,19 7,18.776142 7,18.5 V 3.5 C 7,3.2238576 6.7761424,3 6.5,3 6.2238576,3 6,3.2238576 6,3.5 Z"
+           id="path6"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <path
+           d="M 3,3.5 C 3,3.2238576 2.7761424,3 2.5,3 2.2238576,3 2,3.2238576 2,3.5 v 15 C 2,18.776142 2.2238576,19 2.5,19 2.7761424,19 3,18.776142 3,18.5 Z M 6.0839748,3.7773501 C 6.2371511,4.0071144 6.5475857,4.0692014 6.7773501,3.9160251 7.0071144,3.7628489 7.0692014,3.4524143 6.9160251,3.2226499 l -2,-3 C 4.7628489,-0.00711444 4.4524143,-0.06920138 4.2226499,0.08397485 3.9928856,0.23715108 3.9307986,0.54758575 4.0839748,0.7773501 Z"
+           id="path7"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <path
+           d="M 1.4970301,19 H 7.5029699 C 7.7787666,19 8,19.221302 8,19.5 8,19.773667 7.7732997,20 7.5029699,20 H 1.4970301 C 1.2212334,20 1,19.778698 1,19.5 1,19.226333 1.2267002,19 1.4970301,19 Z m 0,2 H 7.5029699 C 8.3252216,21 9,20.326316 9,19.5 9,18.669087 8.331121,18 7.5029699,18 H 1.4970301 C 0.67477844,18 0,18.673684 0,19.5 0,20.330913 0.66887898,21 1.4970301,21 Z"
+           id="path8"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <polygon
+           points="4,20.5 3,20.5 3,23.5 4,23.5 "
+           id="polygon8"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <polygon
+           points="5,23.5 6,23.5 6,20.5 5,20.5 "
+           id="polygon9"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+        <path
+           d="M 7,25.5 C 7,24.119288 5.8807119,23 4.5,23 3.1192881,23 2,24.119288 2,25.5 2,26.880712 3.1192881,28 4.5,28 5.8807119,28 7,26.880712 7,25.5 Z m -4,0 C 3,24.671573 3.6715729,24 4.5,24 5.3284271,24 6,24.671573 6,25.5 6,26.328427 5.3284271,27 4.5,27 3.6715729,27 3,26.328427 3,25.5 Z"
+           id="path9"
+           style="stroke-width:0.1;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+  <text
+     x="0"
+     y="39"
+     fill="#000000"
+     font-size="5px"
+     font-weight="bold"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     id="text13">Created by Pham Thi Dieu inh</text>
+  <text
+     x="0"
+     y="44"
+     fill="#000000"
+     font-size="5px"
+     font-weight="bold"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     id="text14"><tspan
+       sodipodi:role="line"
+       id="tspan9"
+       x="0"
+       y="44">from the Noun Project</tspan><tspan
+       sodipodi:role="line"
+       id="tspan10"
+       x="0"
+       y="50.25" /></text>
+  <text
+     xml:space="preserve"
+     id="text15"
+     style="white-space:pre;shape-inside:url(#rect15);display:inline;fill:#000000;stroke:#ffffff;stroke-width:3.77953;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-size:6px;fill:#000000;stroke:#ffffff;stroke-width:0.1;stroke-dasharray:none"
+     x="-0.47340626"
+     y="52.71003"
+     id="text11"><tspan
+       sodipodi:role="line"
+       x="-0.47340626"
+       y="52.71003"
+       id="tspan12">Edited by William Steward</tspan></text>
+</svg>
