@@ -168,7 +168,7 @@ const DiceRoller: React.FC = () => {
 
   return (
     <section className="card bg-gradient max-w-5xl p-6">
-      <h1 className="text-gradient mb-4 text-2xl font-bold">Dice Roller</h1>
+      <h1 className="mb-4 text-2xl font-bold text-white">Dice Roller</h1>
       <div className="mb-2 flex justify-center">
         <input
           type="text"

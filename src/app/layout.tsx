@@ -5,7 +5,7 @@ import Banner from "./components/Banner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dungeon Master's Toolkit",
+  title: "Dungeon Master's Assistant",
   description: "An application to make running a table top rpg easier",
 };
 

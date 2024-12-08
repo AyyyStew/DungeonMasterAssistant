@@ -80,7 +80,7 @@ export default function InitiativeTracker() {
 
   return (
     <div className="card bg-gradient w-full max-w-5xl p-6">
-      <h2 className="text-gradient mb-4 text-2xl font-semibold">
+      <h2 className="mb-4 text-2xl font-semibold text-white">
         Initiative Tracker
       </h2>
       <section className="mb-4 font-semibold text-white">
