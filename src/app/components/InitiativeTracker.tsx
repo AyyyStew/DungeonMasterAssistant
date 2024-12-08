@@ -83,7 +83,7 @@ export default function InitiativeTracker() {
   return (
     <section className="card bg-gradient-dark w-full max-w-5xl p-6 shadow">
       <section className="mb-2 flex flex-wrap items-baseline justify-between gap-2">
-        <h2 className="text-gradient mb-2 text-2xl font-semibold">
+        <h2 className="mb-2 text-2xl font-semibold text-white">
           Initiative Tracker
         </h2>
         <div className="grid grid-cols-3 gap-3">

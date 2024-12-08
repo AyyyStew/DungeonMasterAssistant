@@ -177,7 +177,7 @@ const DiceRoller: React.FC = () => {
           width={25}
           height={25}
         ></Image>
-        <h2 className="text-gradient text-2xl font-semibold">Dice Roller</h2>
+        <h2 className="text-2xl font-semibold text-white">Dice Roller</h2>
       </div>
       <div className="mb-4 grid grid-cols-[1fr] gap-2 sm:grid-cols-[9fr_1fr]">
         <input
@@ -215,9 +215,11 @@ const DiceRoller: React.FC = () => {
         ))}
       </div>
       <div className="max-w-[100vw] overflow-x-auto">
-        <p className="text- mb-2 text-white">
-          Click the button to toggle calculation details
-        </p>
+        {results.length > 0 && (
+          <p className="text- mb-2 text-white">
+            Click the Result Card to see individual dice rolls.
+          </p>
+        )}
 
         <div className="flex flex-row-reverse justify-end gap-3 pb-4 text-white shadow">
           {results.map((result, index) => (
