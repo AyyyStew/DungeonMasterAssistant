@@ -4,6 +4,8 @@ This is a tool designed to help run tabletop roleplaying games like Dungeons and
 
 This tool was created to act as a dice roller and initiave tracker for most systems.
 
+[Check it out!](https://dungeonmasterassistant.com/)
+
 ## Rationale
 
 This is a personal project I created after I kept forgetting initiatve turn orders while running a Warhammer 40K: Dark Heresy Game.
